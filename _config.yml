@@ -1,0 +1,4 @@
+title: agora
+description: 공개 문서(개인정보처리방침, 이용약관 등)를 모아두는 공간입니다.
+theme: jekyll-theme-minimal
+permalink: /:path/:basename

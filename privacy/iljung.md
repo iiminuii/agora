@@ -1,3 +1,8 @@
+---
+title: 일정(Iljung) 개인정보처리방침
+permalink: /privacy/iljung
+---
+
 # 일정(Iljung) 개인정보처리방침
 
 **최종 업데이트: 2026-11-06**

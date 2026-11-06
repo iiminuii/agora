@@ -1,3 +1,8 @@
+---
+title: 일정(Iljung) 이용약관
+permalink: /terms/iljung
+---
+
 # 일정(Iljung) 이용약관
 
 **최종 업데이트: 2026-11-06**
